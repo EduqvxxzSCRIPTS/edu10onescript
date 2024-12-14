@@ -1,7 +1,3 @@
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-
-local Window = OrionLib:MakeWindow({Name = "DeltaScripts - Blox Fruits GUI", HidePremium = false, SaveConfig = true, ConfigFolder = "dxl_bf"})
-
 local Tab = Window:MakeTab({
 	Name = "Scripts",
 	Icon = "rbxassetid://6403436082",
