@@ -14,7 +14,7 @@ Tab:AddButton({
 Tab:AddButton({
 	Name = "BloxFruits: CokkaHub",
 	Callback = function()
-        loadstring(game:HttpGet"https://raw.githubusercontent.com/UserDevEthical/Loadstring/main/CokkaHub.lua")()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/UserDevEthical/Loadstring/main/CokkaHub.lua"))()
   	end    
 })
 
