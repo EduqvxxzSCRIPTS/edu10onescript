@@ -9,9 +9,9 @@ local Tab = Window:MakeTab({
 })
 
 Tab:AddButton({
-	Name = "Domadic Hub",
+	Name = "BloxFruits: XeroHub",
 	Callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/Domadicoof/Domadicoof/main/Domadichub/NottoGay/Start.ranscript"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/verudous/Xero-Hub/main/main.lua"))()
   	end    
 })
 
